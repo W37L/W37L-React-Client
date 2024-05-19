@@ -42,10 +42,9 @@ To get this project running locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://your-repository-url.git
-
+git clone https://github.com/W37L/W37L-React-Client.git
 # Navigate to the project directory
-cd w-3-tl
+cd W37L-React-Client
 
 # Install dependencies
 npm install
