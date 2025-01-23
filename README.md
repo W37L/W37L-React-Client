@@ -2,7 +2,7 @@
 
 ## Introduction
 
-W3TL is a fully functional React/Redux application designed as part of a bachelor's thesis project at Via University College, Horsens, Denmark. This platform aims to enhance user connectivity through a modern, interactive, and decentralized social media experience. You can access the live application at [w37l.com](http://w37l.com).
+W3TL is a fully functional React/Redux application designed as part of a bachelor's thesis project at Via University College, Horsens, Denmark. This platform aims to enhance user connectivity through a modern, interactive, and decentralized social media experience. You can access the live application at [w37l.ridao.ar](http://w37l.ridao.ar).
 
 ## Features
 
